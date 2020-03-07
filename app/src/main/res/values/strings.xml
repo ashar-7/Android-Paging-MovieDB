@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="empty_msg">No results found!</string>
+    <string name="search_hint">Search movies</string>
+    <string name="fragment_type_arg_key">type</string>
+</resources>
