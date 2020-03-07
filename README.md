@@ -19,5 +19,8 @@ Get started with the API [here](https://developers.themoviedb.org/3/getting-star
 
 Add your API key in [ApiService.kt](https://github.com/ashar-7/Android-Paging-MovieDB/blob/master/app/src/main/java/com/se7en/themoviedb/ApiService.kt)
 
-#### TODO
+### Screenshots
+<img src=screenshots/movies.png width=200 /> <img src=screenshots/tvshows.png width=200 />
+
+### TODO
 * Movie and TV Show Details (might use MotionLayout for some animation stuff)
